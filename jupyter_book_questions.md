@@ -18,5 +18,7 @@ ich habe jetzt gesehen, dass man die einzelnen Kapitel deiner MA als pdf exporti
 
 Sind das eher tage oder Wochen?
 
+- MyST ausprobieren!
+
 # VS code extension für Latex
 
